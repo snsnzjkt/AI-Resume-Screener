@@ -93,7 +93,3 @@ This project is an AI-powered resume screening system built using **n8n**, **Ope
 * Add Slack/Discord notification on new applicant
 * Auto-reply to applicants with status update
 * Track improvement metrics over time via charts
-
----
-
-Let me know if you want this saved as a downloadable README.md or turned into a Notion doc!
